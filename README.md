@@ -1,1 +1,1 @@
-Python
+Fast learning python
